@@ -38,11 +38,14 @@ Diseñar una estrategia de pruebas efectiva que permita identificar posibles fal
 
 ## 📸 Evidencia
 
-### 🔹 Casos de prueba
-![Test Cases](./test-cases.png)
+### 🔹 Diseño de casos de prueba
+![Diseño de pruebas](./diseñocasosdeprueba.png)
 
-### 🔹 Escenarios diseñados
-![Scenarios](./scenarios.png)
+### 🔹 Casos de prueba
+![Casos de prueba](./casosdeprueba.png)
+
+### 🔹 Partición de equivalencias
+![Equivalencias](./equivalenciasprueba.png)
 
 ---
 
